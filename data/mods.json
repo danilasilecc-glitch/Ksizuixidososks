@@ -1,0 +1,11 @@
+[
+    {
+        "id": "portal-gun",
+        "name": "Portal Gun",
+        "shortDesc": "Портальная пушка из сериала Рик и Морти! Локаничные аксессуары, ингредиенты для крафта, знакомый дизайн.",
+        "image": "assets/images/mods/portal-gun.png",
+        "download": "assets/downloads/portal-gun.mcaddon",
+        "version": "26.40+",
+        "author": "Автор мода (не указал)"
+    }
+]
